@@ -1,4 +1,4 @@
-// Code for IPS-4
+// Code for IPS-4 in SWE2001 on 06Apr2023
 // Program to implement a stack data structure using Linked Lists
 // Input format: number of values in first line followed by each value in a new line
 
